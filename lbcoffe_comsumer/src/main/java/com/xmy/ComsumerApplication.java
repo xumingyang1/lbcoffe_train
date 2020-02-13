@@ -5,7 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@EnableDubboConfiguration//识别dubbo的相关注解  666
+@EnableDubboConfiguration//识别dubbo的相关注解  666dd
 public class ComsumerApplication {
 
     public static void main(String[] args) {
