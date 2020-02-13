@@ -9,7 +9,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ComsumerApplication {
 
     public static void main(String[] args) {
-//这是第一次拉去1231aa
+
+//这是第一次拉去1231aa  44444444
         SpringApplication.run(ComsumerApplication.class, args);
         System.out.println("消费端启动成功！！！");
 
